@@ -22,6 +22,10 @@ M Score = a score based on how much the customer spends on each purchase (e.g., 
 
 By segmenting customers into different groups based on their RFM scores, businesses can tailor their marketing strategies and offers to better meet the needs and preferences of each group, ultimately leading to increased customer loyalty and revenue.
 
+<img src = "src/plot0.png" width ="250" /> <img src = "src/plot1.png" width ="250" /> <img src = "src/plot2.png" width ="250" />
+
+<img src = "src/plot4.png" width ="250" /> <img src = "src/plot5.png" width ="250" /> <img src = "src/plot6.png" width ="250" /> 
+
 
 - ## Dataset 
     - InvoiceNo: Invoice number. Nominal. A 6-digit integral number is uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a ---cancellation.
