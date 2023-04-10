@@ -70,3 +70,13 @@ By segmenting customers into different groups based on their RFM scores, busines
 ### 5 - Reporting Analysis
 In this report, I summarize the analysis that has been made in this notebook + Explaining each segment and marketing strategy for them.
 - ####  https://docs.google.com/document/d/1usBhCDgDJz3gsrSh9Ve0VTt8pMpNhxd3zg-5kaotyBk/edit?usp=sharing
+
+
+
+
+##  Libraries used in the project
+
+- [pandas](https://pandas.pydata.org/)
+- [plotly](https://plotly.com/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
